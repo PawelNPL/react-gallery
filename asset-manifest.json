@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PawelNPL/react-galler/static/css/main.df13edbd.css",
+    "main.js": "/PawelNPL/react-galler/static/js/main.22179414.js",
+    "static/js/453.73a29d2f.chunk.js": "/PawelNPL/react-galler/static/js/453.73a29d2f.chunk.js",
+    "index.html": "/PawelNPL/react-galler/index.html",
+    "main.df13edbd.css.map": "/PawelNPL/react-galler/static/css/main.df13edbd.css.map",
+    "main.22179414.js.map": "/PawelNPL/react-galler/static/js/main.22179414.js.map",
+    "453.73a29d2f.chunk.js.map": "/PawelNPL/react-galler/static/js/453.73a29d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df13edbd.css",
+    "static/js/main.22179414.js"
+  ]
+}
